@@ -1,9 +1,8 @@
 .App {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-
+  align-items: flex-start;
+  justify-content: space-between;
   text-align: center;
   font-family: sans-serif;
 }
